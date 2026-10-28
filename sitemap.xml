@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://nissipululu.com/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/mind-vs-body/mind-vs-body-01-1600.jpg</image:loc>
     </image:image>
@@ -41,20 +41,24 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nissipululu.com/gallery/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
     <loc>https://nissipululu.com/work/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://nissipululu.com/about</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://nissipululu.com/contact</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/mind-vs-body/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/mind-vs-body/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/mind-vs-body/mind-vs-body-01-1600.jpg</image:loc>
     </image:image>
@@ -93,8 +97,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/sit-for-who/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/sit-for-who/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/sit-for-who/sit-for-who-01-1600.jpg</image:loc>
     </image:image>
@@ -127,8 +131,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/seeing-red/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/seeing-red/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/seeing-red/seeing-red-01-1600.jpg</image:loc>
     </image:image>
@@ -149,8 +153,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/on-hold/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/on-hold/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/on-hold/on-hold-01-1600.jpg</image:loc>
     </image:image>
@@ -171,8 +175,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/angels/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/angels/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/angels/angels-01-1600.jpg</image:loc>
     </image:image>
@@ -193,8 +197,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/overworked-and-underpaid/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/overworked-and-underpaid/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/overworked-and-underpaid/overworked-and-underpaid-01-1600.jpg</image:loc>
     </image:image>
@@ -215,8 +219,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/picture-day/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/picture-day/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/picture-day/picture-day-01-1600.jpg</image:loc>
     </image:image>
@@ -255,8 +259,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/corporate-class/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/corporate-class/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/corporate-class/corporate-class-01-1600.jpg</image:loc>
     </image:image>
@@ -286,8 +290,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/teachers-pet/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/teachers-pet/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/teachers-pet/teachers-pet-01-1600.jpg</image:loc>
     </image:image>
@@ -305,8 +309,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/no-concept/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/no-concept/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/no-concept/no-concept-01-1600.jpg</image:loc>
     </image:image>
@@ -330,8 +334,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/la-vie-en-noir/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/la-vie-en-noir/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/la-vie-en-noir/la-vie-en-noir-01-1600.jpg</image:loc>
     </image:image>
@@ -364,8 +368,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/the-boss/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/the-boss/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/the-boss/the-boss-01-1600.jpg</image:loc>
     </image:image>
@@ -380,8 +384,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/no-privacy/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/no-privacy/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/no-privacy/no-privacy-01-1600.jpg</image:loc>
     </image:image>
@@ -414,8 +418,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/midnight-moonshine/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/midnight-moonshine/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/midnight-moonshine/midnight-moonshine-01-1600.jpg</image:loc>
     </image:image>
@@ -433,8 +437,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://nissipululu.com/work/daisy-dukes/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <loc>https://nissipululu.com/gallery/daisy-dukes/</loc>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/daisy-dukes/daisy-dukes-01-1600.jpg</image:loc>
     </image:image>
@@ -452,6 +456,93 @@
     </image:image>
     <image:image>
       <image:loc>https://nissipululu.com/assets/photos/daisy-dukes/daisy-dukes-06-1600.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nissipululu.com/work/rbc-x-sunnybrook/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-01-800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-02-800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-03-800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-04-1280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-05-1280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-06-800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-07-1280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-08-1280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/rbc-x-sunnybrook/rbc-x-sunnybrook-09-800.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nissipululu.com/work/gfl/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-01-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-02-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-03-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-04-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-05-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-06-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-07-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/gfl/gfl-08-1600.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nissipululu.com/work/whiskeyfest/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-01-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-02-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-03-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-04-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-05-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-06-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-07-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-08-1600.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
