@@ -53,6 +53,9 @@ nav ul:hover a:not(:hover){opacity:.65}
 .gallery .g1{grid-column:2/span 4}.gallery .g2{grid-column:8/span 4;margin-top:30vh}.gallery .g3{grid-column:3/span 3}.gallery .g4{grid-column:8/span 3}.gallery .g5{grid-column:4/span 5}
 .js .reveal img{clip-path:inset(20% 20% 20% 20%);opacity:0;transition:clip-path 1.5s var(--ease),opacity .8s}
 .js .reveal.in img{clip-path:inset(0);opacity:1}
+.work-page .mt{aspect-ratio:auto;max-width:320px}
+.work-page .mt img{height:auto;object-fit:contain}
+.work-page .mt-l{position:static;display:block;padding:.6rem 0 0;background:none}
 /* work pages (commercial photos): every photo keeps its own shape, laid out in two columns */
 .work-page .lead img{width:auto;max-width:100%;max-height:75vh;aspect-ratio:auto;object-fit:contain}
 .work-page .gallery{display:block;columns:2;column-gap:1rem;padding:5rem 28px}
@@ -75,6 +78,8 @@ nav ul:hover a:not(:hover){opacity:.65}
 .row img{width:128px;height:192px;object-fit:cover;justify-self:center}
 .row .ti{font-size:clamp(1.1rem,2.2vw,1.7rem)}
 .row .meta{text-align:right;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase}
+.rows.work .row{grid-template-columns:3rem 1fr 280px 1fr}
+.rows.work .row img{width:auto;height:auto;max-width:260px;max-height:200px;object-fit:contain}
 .row::before{content:"";position:absolute;inset:0;background:#fff;transform:translateY(101%);transition:transform .6s var(--ease)}
 .row>*{position:relative;transition:color .4s}
 .row:hover::before,.row:focus-visible::before{transform:none}
@@ -113,6 +118,7 @@ nav ul:hover a:not(:hover){opacity:.65}
 }
 @media(max-width:599px){.wall{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:899px){.work-page .lead img{width:100%;max-width:none;max-height:none}.work-page .gallery{columns:1;padding:3rem 18px}.work-page .gallery figure{max-width:none}}
+@media(max-width:699px){.rows.work .row{grid-template-columns:2rem 1fr 110px}.rows.work .row img{width:auto;height:auto;max-width:104px;max-height:104px;grid-column:3;grid-row:1}}
 @media(max-width:480px){nav ul{gap:0;font-size:.64rem;letter-spacing:.07em}nav a{padding:1.1rem .42rem}nav a::before{display:none}}
 
 /* page change: the new page wipes in from the bottom (browsers that support it) */
