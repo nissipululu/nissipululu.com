@@ -545,4 +545,23 @@
       <image:loc>https://nissipululu.com/assets/work/whiskeyfest/whiskeyfest-08-1600.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://nissipululu.com/work/cosure/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/cosure/cosure-01-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/cosure/cosure-02-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/cosure/cosure-03-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/cosure/cosure-04-1600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/work/cosure/cosure-05-1600.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
