@@ -50,7 +50,10 @@
   </url>
   <url>
     <loc>https://nissipululu.com/about</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-10</lastmod>
+    <image:image>
+      <image:loc>https://nissipululu.com/assets/img/nissi-pululu-portrait.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://nissipululu.com/contact</loc>

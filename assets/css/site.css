@@ -91,6 +91,11 @@ nav ul:hover a:not(:hover){opacity:.65}
 .text .big{font-size:clamp(1.25rem,2.4vw,1.8rem);line-height:1.35;margin:0 0 1.5rem;text-wrap:balance}
 .text p{margin:0 0 1.2rem;max-width:40rem}
 .text .mail{font-size:1.2rem}
+/* about: his portrait on the left, the words on the right (his ask 2026-11-10). The portrait shows whole, never cropped, at most three quarters of the screen height */
+.about{max-width:none;display:grid;grid-template-columns:auto minmax(0,40rem);justify-content:start;gap:3rem;align-items:start}
+.about .portrait{margin:0;width:min(34vw,calc(75vh * 2 / 3),28rem)}
+.about .portrait img{width:100%;height:auto;aspect-ratio:2/3;background:#111}
+@media(max-width:899px){.about{grid-template-columns:1fr;gap:2rem;padding-top:2rem}.about .portrait{width:min(100%,320px)}}
 .facts-list{margin:2.4rem 0 0;max-width:40rem}
 .facts-list dt{font-size:.78rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;margin-top:1.6rem;opacity:.75}
 .facts-list dd{margin:.35rem 0 0;font-size:1.1rem}
